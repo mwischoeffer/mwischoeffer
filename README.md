@@ -4,4 +4,4 @@ Hi! My name's Matt. I'm a musician and faculty at Columbia College Chicago, tryi
 |-----:|-----------|
 |     1| C++ (for audio processing)|
 |     2| Lua (for scripting)    |
-|     3| Python (for fun       |
+|     3| Python (for fun!)       |
